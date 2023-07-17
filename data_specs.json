@@ -1,0 +1,10 @@
+{
+  "noise_dimensions": 2,
+  "batch_size": 256,
+  "input_dimensions": 2,
+  "output_dimensions": 2,
+  "n_categories": 10,
+  "n_numerical_features": 1,
+  "ordinal_feature": "MonthlyIncome",
+  "continuous_feature": "effort"
+}
