@@ -2,5 +2,4 @@
 Create tabular synthetic data with a numerical and categorical columns, categorical column is ordinal using WGAN
 Notebook contains data exploration and explanation about the code.
 
-Main code is written in synthesier.py
-
+Main code is written in synthesizer.py
